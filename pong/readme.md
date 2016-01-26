@@ -2,7 +2,7 @@
 
 __Pong__ es un juego donde dos adversarios compiten
 por mantener una pelota dentro de una caja. El primero en dejar
-escapar la pelota 3 veces es el perdedor. 
+escapar la pelota 3 veces es el perdedor.
 
 ## Pasos para construir el juego
 
